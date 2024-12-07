@@ -1,0 +1,87 @@
+text {
+    background-color: aqua;
+}
+
+
+
+
+span {
+    color: beige;
+}
+
+h3 {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+/* .text {
+    color: yellow;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    border: 5px solid black;
+    border-radius: 30px;
+    font-weight: bold;
+} */
+h3{
+    background-color: yellow;
+}
+  button{
+    width:200px ;
+    height:30px;
+    background-color: aqua;
+  }
+
+thead{
+    color: green;
+}
+.gdr{
+    border: 2px solid red;
+}
+table,th,tr{
+    border: 2px solid ;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.black{
+    background-color: black;
+    color:white;
+}
+  .red{
+    background-color: red;
+    color: white;
+  }
+.black{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
